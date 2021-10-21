@@ -9,5 +9,11 @@
         <module name="FastAF" />
       </profile>
     </annotationProcessing>
+<<<<<<< HEAD
+=======
+    <bytecodeTargetLevel>
+      <module name="FastAF" target="11" />
+    </bytecodeTargetLevel>
+>>>>>>> origin/master
   </component>
 </project>
