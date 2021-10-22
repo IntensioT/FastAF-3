@@ -1,5 +1,5 @@
 public class Cchken {
     public static void main(String[] args) {
-        System.out.println("Helwolkd21");
+        System.out.println("Helwoolkd21");
     }
 }
